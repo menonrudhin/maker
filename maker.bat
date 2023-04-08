@@ -1,4 +1,4 @@
-:: Author : Rudhin (856124)
+:: Author : Rudhin
 
 :: To support more languages
 :: 1. Add an "if" conditions as follows,
