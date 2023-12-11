@@ -1,7 +1,7 @@
 :: Author : Rudhin
 
 :: To support more languages
-:: 1. Add an "if" conditions as follows,
+:: 1. Add an "if" condition as follows,
 :: if "-<unique_switch_here>" (
 :: 	set ext=.<extension_of_the_src_file>
 ::	goto ext_done
